@@ -1,0 +1,10 @@
+.contact{
+    text-align: center;
+    padding: 0.8rem;
+}
+.contact__title{
+    margin: 0;    
+}
+.contact__description{
+    margin: 1rem auto;
+}

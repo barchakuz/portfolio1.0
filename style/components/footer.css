@@ -1,0 +1,37 @@
+footer{
+    font-size: var(--size-xs);
+    margin: 1rem auto;
+    text-align: center;
+    color: var(--clr-slate600)
+}
+
+
+/* xs */
+/* @media (min-width: 475px) {
+} */
+
+/* sm */
+@media (min-width: 640px) {
+    footer{
+        font-size: var(--size-sm);
+    }
+}
+
+/* md */
+@media (min-width: 768px) {
+    footer{
+        font-size: var(--size-md);
+    }
+}
+
+/* lg */
+/* @media (min-width: 1024px) {
+} */
+
+/* xl */
+/* @media (min-width: 1280px) {
+} */
+
+/* 2xl */
+/* @media (min-width: 1536px) {
+} */
