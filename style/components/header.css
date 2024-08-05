@@ -16,6 +16,8 @@
     width: var(--size-3xl);
     z-index: 9999;
     position: absolute;
+    right: 1rem;
+    top: 1rem;
 
 
 
